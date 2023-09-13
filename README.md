@@ -78,3 +78,6 @@ table, th, td {
     <td></td>
     <td>Ds Lab</td>
     <td>OOP Lab</td>
+</tr>
+</table>
+<h2 style="text-align:center;">By Harsh Chandel</h2>
